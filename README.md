@@ -1,5 +1,3 @@
-<a href="https://toxicfilter.com"><img src="art/logo.png" alt="ToxicFilter" width="96"></a>
-
 # ToxicFilter example: Laravel with Laratox
 
 A comment wall moderated with [ToxicFilter](https://toxicfilter.com), built with Laravel with Laratox and Laratox ([edulazaro/laratox](https://github.com/edulazaro/laratox)). Somebody posts a comment and ToxicFilter decides:
