@@ -1,3 +1,5 @@
+![ToxicFilter Laravel example](https://raw.githubusercontent.com/toxicfilter/laravel-example/main/art/banner.png)
+
 # ToxicFilter example: Laravel with Laratox
 
 A comment wall moderated with [ToxicFilter](https://toxicfilter.com), built with Laravel with Laratox and Laratox ([edulazaro/laratox](https://github.com/edulazaro/laratox)). Somebody posts a comment and ToxicFilter decides:
